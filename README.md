@@ -8,3 +8,5 @@ Main modules of workflow:
 
 Metataxonomics folder contains the pipeline as a whole. The newly developed Docker file is stored at "metataxonomics/Docker/sankey-dockerinstall-Rpackages"
 
+Others folder contains modules i used for the case study or modules i used for better screenshots of the Sankey diagram, including the overlay. 
+
