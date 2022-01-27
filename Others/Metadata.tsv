@@ -1,0 +1,5 @@
+ID	rankstat_gender	empty1	rankstat_smoker	rankstat_treatment
+1	Male	1	Yes	Disease
+1a	Male	2	No	Control
+2	Female	3	No	Disease
+2a	Female	4	Yes	Control
